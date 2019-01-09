@@ -8,3 +8,5 @@ Extras
 ----------------------------------
 - Booking an airport transfer
 - Arrange for foreign currency
+
+- International sim card
