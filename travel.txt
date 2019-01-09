@@ -2,3 +2,9 @@ Travel Agenda
 ----------------------------------
 - Purchasing a flight ticket
 - Booking a hotel
+
+
+Extras
+----------------------------------
+- Booking an airport transfer
+- Arrange for foreign currency
